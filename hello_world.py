@@ -1,2 +1,2 @@
 print("Hello from feature")
-printf("Hello from release")
+print("Hello from release")
